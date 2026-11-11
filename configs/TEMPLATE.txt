@@ -1,0 +1,7 @@
+! Device: R1            (rename this file to the device name, e.g. R1.txt)
+! Role:   HQ edge router
+! Owner:  [name]
+! Updated: [date]
+!
+! Paste the output of `show running-config` below this line
+!
